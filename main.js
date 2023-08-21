@@ -36,7 +36,7 @@ function draw() {
     }
 }
 function preload(){
-    video = createVideo("Exposición  de  autos  deportivos de lujo.mp4")
+    video = createVideo("Exposiciondeautosdeportivosdelujo.mp4")
 }
 function play(){
     video.loop()
